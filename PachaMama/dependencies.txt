@@ -1,0 +1,14 @@
+com.unity.analytics@3.3.2
+com.unity.cinemachine@2.3.4
+com.unity.ads@2.0.8
+com.unity.purchasing@2.0.6
+com.unity.package-manager-ui@2.1.2
+com.unity.connect.share@1.0.10-preview
+com.unity.textmeshpro@2.0.1
+com.unity.uiwidgets@1.5.4-preview.8
+com.unity.collab-proxy@1.2.16
+com.unity.timeline@1.0.0
+com.unity.ugui@1.0.0
+com.unity.xiaomi@1.0.3
+com.unity.xr.legacyinputhelpers@2.0.2
+com.WinWin.LaLaLandAR@0.1
