@@ -144,6 +144,8 @@ public void GetScore()
   currentScore += 1;
   GameConstants.SCORE = currentScore;
   scoreText.text = "" + currentScore;
+
+  Book.SavePages(currentScore);
 }
 
 public void LostScore(int i)
